@@ -1,0 +1,15 @@
+
+
+Name : Dawit Alemayohu Kahsay
+
+UVA ID: dak4zh
+Background on Embedded systems design and programming:
+     . I have studied my master study in Design and analysis of Communication systems in University of Twente in Netherlands
+     . I have worked in different projects using C++, phyton, Metlab, jquery, Angularjs.
+     . I have worked on design and analysis of communication systems.
+     . I dont have much background on embedded systems
+
+Interest:
+     . I want to work on Cypher physical systems, Cypersecurity, Internt of things.
+
+This class will helps me to get insight into Cyper physical systems and how different systems work together to acheive one mission. 
